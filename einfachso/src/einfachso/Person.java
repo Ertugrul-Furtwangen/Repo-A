@@ -5,7 +5,7 @@ public class Person {
 	String name;
 	String hair;
 	int height;
-	int age;
+	int age1;
 	
 	Person(){
 		this.name="Erti";
