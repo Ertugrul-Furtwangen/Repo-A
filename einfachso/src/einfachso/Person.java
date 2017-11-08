@@ -4,6 +4,7 @@ public class Person {
 
 	String name;
 	String hair;
+	String domicile;
 	int height;
 	int age;
 	
